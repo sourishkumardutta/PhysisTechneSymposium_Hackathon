@@ -42,7 +42,7 @@ PhysisTechneSymposium_Hackathon/
 ## How to Reproduce
 
 ### Option 1 — Live Website
-- **Frontend:** https://qsetup.vercel.app
+- **Frontend:** https://57d78659-d9db-4cbe-af40-a8dbb4c82391-00-3cmvq71seus2h.picard.replit.dev
 - **Backend API:** https://qsetup-backend.onrender.com
 - **Health check:** https://qsetup-backend.onrender.com/health
 
