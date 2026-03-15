@@ -1,2 +1,0 @@
-# PhysisTechneSymposium_Hackathon
-Autonomous photonic quantum experiment designer
