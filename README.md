@@ -8,6 +8,8 @@
 
 QSetup is an AI system that autonomously designs photonic quantum optical experiments to prepare specified multi-qubit target states. Given a target quantum state ρ_output, the system uses a **Genetic Algorithm** to search over a fixed component library, evolving circuit candidates and evaluating them using real quantum physics simulation via **QuTiP**. Fidelity is computed using the exact formula from the problem statement:
 
+**Explanatory Video:** https://drive.google.com/file/d/134mIZy4bAx1sZhgSCL7-U5CldrNIXSY-/view?usp=sharing
+
 ```
 F(ρ_target, ρ_out) = ( Tr √( √ρ_target · ρ_out · √ρ_target ) )²
 ```
@@ -45,7 +47,6 @@ PhysisTechneSymposium_Hackathon/
 - **Frontend:** https://physishackathon.vercel.app/
 - **Backend API:** https://qsetup-backend.onrender.com
 - **Health check:** https://qsetup-backend.onrender.com/health
-- **Frontend2:** https://57d78659-d9db-4cbe-af40-a8dbb4c82391-00-3cmvq71seus2h.picard.replit.dev
 
 ### Option 2 — Run Locally (Kaggle)
 1. Upload `ml-genetic-algo.ipynb` to Kaggle
@@ -263,8 +264,8 @@ Python version: 3.11.8
 
 ---
 
-## Team
+## Links
 
 **PhysisTechne Symposium 2026**
-Repository: https://github.com/sourishkumardutta/PhysisTechneSymposium_Hackathon
-Research papers: https://huggingface.co/datasets/sourishdutta/PhysisTechneSymposium
+- Repository: https://github.com/sourishkumardutta/PhysisTechneSymposium_Hackathon
+- Research papers: https://huggingface.co/datasets/sourishdutta/PhysisTechneSymposium
