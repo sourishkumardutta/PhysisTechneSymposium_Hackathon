@@ -42,9 +42,10 @@ PhysisTechneSymposium_Hackathon/
 ## How to Reproduce
 
 ### Option 1 — Live Website
-- **Frontend:** https://57d78659-d9db-4cbe-af40-a8dbb4c82391-00-3cmvq71seus2h.picard.replit.dev
+- **Frontend:** https://physishackathon.vercel.app/
 - **Backend API:** https://qsetup-backend.onrender.com
 - **Health check:** https://qsetup-backend.onrender.com/health
+- **Frontend2:** https://57d78659-d9db-4cbe-af40-a8dbb4c82391-00-3cmvq71seus2h.picard.replit.dev
 
 ### Option 2 — Run Locally (Kaggle)
 1. Upload `ml-genetic-algo.ipynb` to Kaggle
